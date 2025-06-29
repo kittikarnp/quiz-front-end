@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kittikarn\\source\\repos\\quiz_island_app\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Kittikarn\\source\\repos\\quiz_island_app\\app\\screens\\QuizScreen.tsx||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\screens\\QuizScreen.tsx||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Kittikarn\\source\\repos\\quiz_island_app\\app\\utils\\storage.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\utils\\storage.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Kittikarn\\source\\repos\\quiz_island_app\\app\\App.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\App.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Kittikarn\\source\\repos\\quiz_island_app\\app\\screens\\ResultScreen.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\screens\\ResultScreen.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Kittikarn\\source\\repos\\quiz_island_app\\app\\screens\\HomeScreen.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\screens\\HomeScreen.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Kittikarn\\source\\repos\\quiz_island_app\\app\\screens\\QuestionScreen.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\screens\\QuestionScreen.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Kittikarn\\source\\repos\\quiz_island_app\\app\\services\\api.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\services\\api.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Kittikarn\\source\\repos\\quiz_island_app\\app\\types\\types.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\types\\types.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QuizScreen.tsx",
+              "DocumentMoniker": "C:\\Users\\Kittikarn\\source\\repos\\quiz_island_app\\app\\screens\\QuizScreen.tsx",
+              "RelativeDocumentMoniker": "app\\screens\\QuizScreen.tsx",
+              "ToolTip": "C:\\Users\\Kittikarn\\source\\repos\\quiz_island_app\\app\\screens\\QuizScreen.tsx",
+              "RelativeToolTip": "app\\screens\\QuizScreen.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-06-24T06:31:16.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "types.ts",
+              "DocumentMoniker": "C:\\Users\\Kittikarn\\source\\repos\\quiz_island_app\\app\\types\\types.ts",
+              "RelativeDocumentMoniker": "app\\types\\types.ts",
+              "ToolTip": "C:\\Users\\Kittikarn\\source\\repos\\quiz_island_app\\app\\types\\types.ts",
+              "RelativeToolTip": "app\\types\\types.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-06-24T06:27:10.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "storage.ts",
+              "DocumentMoniker": "C:\\Users\\Kittikarn\\source\\repos\\quiz_island_app\\app\\utils\\storage.ts",
+              "RelativeDocumentMoniker": "app\\utils\\storage.ts",
+              "ToolTip": "C:\\Users\\Kittikarn\\source\\repos\\quiz_island_app\\app\\utils\\storage.ts",
+              "RelativeToolTip": "app\\utils\\storage.ts",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAcwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-06-24T06:26:54.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "api.ts",
+              "DocumentMoniker": "C:\\Users\\Kittikarn\\source\\repos\\quiz_island_app\\app\\services\\api.ts",
+              "RelativeDocumentMoniker": "app\\services\\api.ts",
+              "ToolTip": "C:\\Users\\Kittikarn\\source\\repos\\quiz_island_app\\app\\services\\api.ts",
+              "RelativeToolTip": "app\\services\\api.ts",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAYwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-06-24T06:26:36.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.tsx",
+              "DocumentMoniker": "C:\\Users\\Kittikarn\\source\\repos\\quiz_island_app\\app\\App.tsx",
+              "RelativeDocumentMoniker": "app\\App.tsx",
+              "ToolTip": "C:\\Users\\Kittikarn\\source\\repos\\quiz_island_app\\app\\App.tsx",
+              "RelativeToolTip": "app\\App.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-06-24T06:22:18.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ResultScreen.tsx",
+              "DocumentMoniker": "C:\\Users\\Kittikarn\\source\\repos\\quiz_island_app\\app\\screens\\ResultScreen.tsx",
+              "RelativeDocumentMoniker": "app\\screens\\ResultScreen.tsx",
+              "ToolTip": "C:\\Users\\Kittikarn\\source\\repos\\quiz_island_app\\app\\screens\\ResultScreen.tsx",
+              "RelativeToolTip": "app\\screens\\ResultScreen.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-06-24T06:21:14.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "QuestionScreen.tsx",
+              "DocumentMoniker": "C:\\Users\\Kittikarn\\source\\repos\\quiz_island_app\\app\\screens\\QuestionScreen.tsx",
+              "RelativeDocumentMoniker": "app\\screens\\QuestionScreen.tsx",
+              "ToolTip": "C:\\Users\\Kittikarn\\source\\repos\\quiz_island_app\\app\\screens\\QuestionScreen.tsx",
+              "RelativeToolTip": "app\\screens\\QuestionScreen.tsx",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAYwEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-06-24T06:21:03.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeScreen.tsx",
+              "DocumentMoniker": "C:\\Users\\Kittikarn\\source\\repos\\quiz_island_app\\app\\screens\\HomeScreen.tsx",
+              "RelativeDocumentMoniker": "app\\screens\\HomeScreen.tsx",
+              "ToolTip": "C:\\Users\\Kittikarn\\source\\repos\\quiz_island_app\\app\\screens\\HomeScreen.tsx",
+              "RelativeToolTip": "app\\screens\\HomeScreen.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-06-24T06:20:53.647Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
