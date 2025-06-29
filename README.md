@@ -1,50 +1,58 @@
-# Welcome to your Expo app 👋
+🧑‍💻 Developer : Kittikarn  Panyu 
+Provide steps for running the application :
+==============================================================
+# 📱 QUIZ ISLAND APP
+======================================================A========
+แอปเล่นเกมตอบคำถามพร้อมระบบจัดเก็บคะแนนและสรุปผลแบบเรียลไทม์ พัฒนาด้วย React Native + Expo
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+# 🧩 Features
 
-## Get started
+- ✅ เริ่มเกมใหม่พร้อมสร้าง Session ผ่าน API
+- ✅ ดึงคำถามแบบสุ่มผ่าน WebAPI
+- ✅ ส่งคำตอบและแสดงผลลัพธ์ทันที
+- ✅ สรุปคะแนนหลังจบเกม
+- ✅ ดูประวัติผู้เล่นย้อนหลังพร้อมรายละเอียด
+- ✅ บันทึกชื่อผู้เล่นและคะแนนด้วย AsyncStorage
 
-1. Install dependencies
+# 🚀 Getting Started
 
-   ```bash
-   npm install
-   ```
+# 1. Clone the project
+ 
+git clone <your-repo-url>
+cd quiz_island_app
 
-2. Start the app
+# 2. Install dependencies
+npm install
 
-   ```bash
-   npx expo start
-   ```
+# 3. Start the app
+npx expo start
 
-In the output, you'll find options to open the app in a
+# 🛠 Project Structure
+quiz_island_app/
+├── app/
+│   └── (tabs)/
+│       ├── index.tsx            # หน้า Home
+│       ├── HistoryScreen.tsx    # หน้าประวัติผู้เล่น
+│       └── QuestionScreen.tsx   # หน้าคำถาม
+│
+├── screens/
+│   └── SummaryScreen.tsx        # หน้าสรุปผล
+│
+├── services/
+│   └── api.ts                   # API calls (createSession, getSummary)
+│
+├── App.tsx                      # Navigation หลัก
+ 
+# 📸 Screens
+HomeScreen: กรอกชื่อผู้เล่นและเริ่มเกม
+QuestionScreen: แสดงคำถามพร้อมตัวเลือกคำตอบ
+SummaryScreen: สรุปคะแนนหลังจบเกม
+HistoryScreen: จัดอันดับผู้เล่นย้อนหลัง
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+# 🌐 Backend API
+เชื่อมต่อกับ API:  https://webapi.icydune-a1052ab7.southeastasia.azurecontainerapps.io/api/v1/Quiz
+Endpoints ที่ใช้:
+POST /Session → สร้าง session ใหม่
+GET /Questions/{sessionId} → ดึงคำถาม
+POST /Answer → ส่งคำตอบ
+GET /Summary/{sessionId} → ดูผลรวมของ session
